@@ -1,0 +1,11 @@
+email_text,label
+"Dear customer, your account has been locked due to suspicious activity. Please verify your identity by clicking on the link below immediately. Failure to do so will result in permanent account suspension. http://192.168.1.10/verify",1
+"Congratulations! You have been selected for a special offer. Click here to claim your $500 gift card now! Limited time offer. Don't miss out! http://bit.ly/specialoffer",1
+"URGENT: Your PayPal account will be suspended unless you confirm your information. Log in now to verify your details. javascript:alert('verify')",1
+"Hi John, I hope you're doing well. Let's schedule a meeting for next week to discuss the project. Please let me know your availability.",0
+"Thank you for your purchase. Your order #4589 has been shipped and will arrive within 3-5 business days. Tracking number: XYZ123456",0
+"Monthly newsletter subscription confirmed. You'll now receive our weekly updates on industry news and trends.",0
+"Security alert: We've detected unusual login activity on your account. Please review the recent sign-ins from unknown devices.",1
+"Your credit card statement for March is now available. Log in to your online banking portal to view the details.",0
+"FINAL NOTICE: Your warranty is about to expire. Extend your coverage now to protect your investment. Act fast before it's too late!",1
+"Team meeting minutes from yesterday's discussion are attached for your reference. Please review before Friday's follow-up session.",0

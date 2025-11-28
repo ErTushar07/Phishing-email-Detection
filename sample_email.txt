@@ -1,0 +1,13 @@
+Subject: Urgent Security Alert - Verify Your Account Immediately
+
+Dear Customer,
+
+We have detected suspicious activity on your account. To prevent unauthorized access, please verify your identity by clicking the link below within 24 hours.
+
+http://192.168.1.10/verify-account
+
+Failure to verify your account will result in immediate suspension.
+
+Thank you for your prompt attention to this matter.
+
+Security Team
