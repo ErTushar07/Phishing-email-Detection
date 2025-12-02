@@ -41,11 +41,7 @@ jobs:
       with:
         node-version: ${{ env.NODE_VERSION }}
 
-    - name: npm install, build, and test
-      run: |
-        # Python project - no npm dependencies
-    echo 'Skipping npm install as this is a Python project'
-    - name: Upload artifact for deployment job
+  
       uses: actions/upload-artifact@v4
       with:
         name: node-app
